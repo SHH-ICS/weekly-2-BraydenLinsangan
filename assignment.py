@@ -9,5 +9,5 @@ elif Diameterint > 0:
     Circumference = 2*Pi*Radius
     Area = Pi*Radius*Radius
     print("Results")
-    print(Circumference)
-    print(Area)
+    print("Circumference =", Circumference)
+    print("Area =", Area)
